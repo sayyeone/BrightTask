@@ -2,7 +2,7 @@
 
 A modern task management landing page built with HTML, CSS, and Tailwind CSS. Clean design, fully responsive, and ready to deploy.
 
-**Live Demo:** [brighttask.github.io](https://yourusername.github.io/brighttask)
+**Live Demo:** [brighttask.github.io](https://sayyeone.github.io/BrightTask/)
 
 ## What's This?
 
